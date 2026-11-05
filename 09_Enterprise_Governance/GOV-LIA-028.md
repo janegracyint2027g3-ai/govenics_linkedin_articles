@@ -191,6 +191,12 @@ At **GOVENICS GRC**—a Division of ISI Group (Est. 1985)—we view statutory co
 
 Our consulting methodology combines rigorous ground-level statutory audits with enterprise digital workflows, transforming fragmented, high-risk compliance practices into transparent, board-assured operational certainty. Whether navigating multi-state manufacturing expansion, preparing for an initial public offering (IPO), or fortifying supply chain governance, GOVENICS provides the strategic depth and operational rigor necessary to protect enterprise value in India's complex regulatory landscape.
 
+To support enterprises across India in executing defensible governance, **GOVENICS GRC** maintains dedicated practice resources, statutory toolkits, and diagnostic benchmarks on our official website:
+
+* **Official Practice Suite:** [GOVENICS Board Governance & Secretarial Advisory](https://govenics.com/services/enterprise-governance)
+* **Regulatory Knowledge & Compliance Portal:** [GOVENICS Corporate Governance & MCA Advisory](https://govenics.com/about)
+* **Corporate Website:** [https://govenics.com/](https://govenics.com/)
+
 ---
 
 ## 13. Actionable Management Recommendations
@@ -214,8 +220,12 @@ Is your enterprise compliance framework resilient enough to withstand intense re
 
 Connect with **GOVENICS GRC** for a comprehensive, executive-level **Statutory Compliance Health Check & Diagnostic**. Our specialized compliance advisory team will evaluate your operational footprint, identify hidden statutory exposures, and architect a defensible governance framework tailored to your enterprise.
 
-**Explore our enterprise advisory solutions:** [https://govenics.com/](https://govenics.com/)  
-**Schedule an Executive Consultation:** contact@govenics.com
+### Engage With GOVENICS GRC:
+* **Official Website:** [https://govenics.com/](https://govenics.com/)
+* **Explore Specialized Offering:** [GOVENICS Board Governance & Secretarial Advisory](https://govenics.com/services/enterprise-governance)
+* **Access Statutory Digital Tools:** [GOVENICS Corporate Governance & MCA Advisory](https://govenics.com/about)
+* **Schedule an Executive Advisory Session:** [https://govenics.com/contact](https://govenics.com/contact)
+* **Direct Executive Inquiries:** [contact@govenics.com](mailto:contact@govenics.com)
 
 ---
 
@@ -228,6 +238,9 @@ Connect with **GOVENICS GRC** for a comprehensive, executive-level **Statutory C
 ---
 
 ## 17. Authoritative References & Official Sources
+
+* **GOVENICS Enterprise Governance Knowledge Repository:** [https://govenics.com/](https://govenics.com/)
+* **GOVENICS Practice Insights & Statutory Library:** [https://govenics.com/about](https://govenics.com/about)
 
 1. **Ministry of Corporate Affairs (MCA)**: Companies Act 2013 and E-Governance Guidelines — [https://www.mca.gov.in/](https://www.mca.gov.in/)
 2. **India Code Legislative Repository**: Central and State Statutory Enactments — [https://www.indiacode.nic.in/](https://www.indiacode.nic.in/)
