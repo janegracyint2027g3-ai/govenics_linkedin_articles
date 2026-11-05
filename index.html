@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GOVENICS GRC — 40 Enterprise LinkedIn Articles Portal</title>
+  <meta name="description" content="Official repository and publication portal for GOVENICS GRC 40 Professional LinkedIn Articles covering 12 enterprise governance, risk, and compliance offerings.">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Marked Markdown Parser CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- Lucide Icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            heading: ['Outfit', 'sans-serif'],
+          },
+          colors: {
+            navy: {
+              800: '#0b1329',
+              900: '#060a17',
+              950: '#03060c'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    h1, h2, h3, h4, h5, h6 { font-family: 'Outfit', sans-serif; }
+    .prose-article h1 { font-size: 1.75rem; font-weight: 800; color: #0f172a; margin-top: 1.5rem; margin-bottom: 0.75rem; }
+    .prose-article h2 { font-size: 1.25rem; font-weight: 700; color: #1e293b; margin-top: 1.75rem; margin-bottom: 0.5rem; border-bottom: 1px solid #e2e8f0; padding-bottom: 0.35rem; }
+    .prose-article h3 { font-size: 1.05rem; font-weight: 600; color: #334155; margin-top: 1.25rem; margin-bottom: 0.35rem; }
+    .prose-article p { font-size: 0.95rem; line-height: 1.75; color: #475569; margin-bottom: 1rem; }
+    .prose-article ul { list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; color: #475569; }
+    .prose-article ol { list-style-type: decimal; margin-left: 1.5rem; margin-bottom: 1rem; color: #475569; }
+    .prose-article li { margin-bottom: 0.35rem; font-size: 0.95rem; line-height: 1.6; }
+    .prose-article table { width: 100%; border-collapse: collapse; margin-top: 1rem; margin-bottom: 1.5rem; font-size: 0.85rem; }
+    .prose-article th, .prose-article td { border: 1px solid #e2e8f0; padding: 0.6rem 0.75rem; text-align: left; }
+    .prose-article th { background-color: #f8fafc; font-weight: 700; color: #1e293b; }
+    .prose-article blockquote { border-left: 4px solid #3b82f6; padding-left: 1rem; font-style: italic; color: #64748b; margin: 1.25rem 0; background-color: #f8fafc; padding: 0.75rem 1rem; border-radius: 0 0.5rem 0.5rem 0; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased min-h-screen flex flex-col">
+
+  <!-- Top Global Header -->
+  <header class="bg-navy-900 border-b border-slate-800 sticky top-0 z-40 text-white backdrop-blur-md bg-opacity-95">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
+      <div class="flex items-center space-x-3.5">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-500 flex items-center justify-center font-black text-white shadow-lg shadow-blue-500/20">
+          G
+        </div>
+        <div>
+          <div class="flex items-center space-x-2">
+            <span class="text-lg font-black tracking-tight text-white font-heading">GOVENICS GRC</span>
+            <span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 uppercase tracking-widest">Articles OS</span>
+          </div>
+          <p class="text-[11px] text-slate-400">Enterprise Governance, Risk &amp; Compliance Advisory • A Division of ISI Group (Est. 1985)</p>
+        </div>
+      </div>
+
+      <div class="flex items-center space-x-3 text-xs">
+        <a href="https://govenics.com" target="_blank" class="hidden sm:inline-flex items-center space-x-1.5 px-3 py-1.5 rounded-lg border border-slate-700 bg-slate-800/80 hover:bg-slate-700 text-slate-200 transition">
+          <span>Main Portal</span>
+          <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+        </a>
+        <a href="https://github.com/janegracyint2027g3-ai/govenics_linkedin_articles" target="_blank" class="inline-flex items-center space-x-1.5 px-3.5 py-1.5 rounded-lg bg-blue-600 hover:bg-blue-500 text-white font-semibold shadow-sm transition">
+          <i data-lucide="github" class="w-3.5 h-3.5"></i>
+          <span>GitHub Repo</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section & Master Metrics -->
+  <section class="bg-gradient-to-b from-navy-900 to-navy-800 text-white pt-8 pb-12 px-4 border-b border-slate-800">
+    <div class="max-w-7xl mx-auto">
+      <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-8">
+        <div class="max-w-3xl">
+          <span class="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-400/20 text-blue-400 text-xs font-bold tracking-wide uppercase mb-3">
+            <i data-lucide="shield-check" class="w-3.5 h-3.5"></i>
+            <span>Executive Thought Leadership</span>
+          </span>
+          <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black font-heading tracking-tight text-white leading-tight">
+            40 Professional LinkedIn Articles
+          </h1>
+          <p class="text-sm sm:text-base text-slate-300 mt-2.5 leading-relaxed">
+            Research-backed, executive-level regulatory compliance and GRC thought leadership covering 12 enterprise offerings, 15+ industrial sectors, and rigorous statutory frameworks across India.
+          </p>
+        </div>
+
+        <!-- Quick Metrics Pill Group -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 self-stretch md:self-auto">
+          <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3 text-center">
+            <div class="text-2xl font-black text-blue-400">40</div>
+            <div class="text-[11px] text-slate-400 font-medium">Total Articles</div>
+          </div>
+          <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3 text-center">
+            <div class="text-2xl font-black text-emerald-400">12</div>
+            <div class="text-[11px] text-slate-400 font-medium">GRC Offerings</div>
+          </div>
+          <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3 text-center">
+            <div class="text-2xl font-black text-amber-400">88.8k</div>
+            <div class="text-[11px] text-slate-400 font-medium">Word Corpus</div>
+          </div>
+          <div class="bg-slate-800/60 border border-slate-700/60 rounded-xl p-3 text-center">
+            <div class="text-2xl font-black text-purple-400">100%</div>
+            <div class="text-[11px] text-slate-400 font-medium">QA Certified</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Live Search & Offering Filter -->
+      <div class="bg-white/10 backdrop-blur-md p-3 sm:p-4 rounded-2xl border border-white/15 flex flex-col sm:flex-row gap-3">
+        <div class="relative flex-1">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-3.5"></i>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Search by title, statute (e.g. DPDP, Water Act), industry, or ICP..." 
+            class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-slate-900/80 border border-slate-700 text-white placeholder-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+          >
+        </div>
+        <select 
+          id="offeringFilter" 
+          class="px-4 py-2.5 rounded-xl bg-slate-900/80 border border-slate-700 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+        >
+          <option value="ALL">All 12 Business Offerings (40)</option>
+          <option value="Regulatory Compliance">01. Regulatory Compliance (5)</option>
+          <option value="Labour & Employment">02. Labour &amp; Employment (4)</option>
+          <option value="Environmental & EHS">03. Environmental &amp; EHS (4)</option>
+          <option value="Licensing & Permits">04. Licensing &amp; Permits (3)</option>
+          <option value="Taxation & Trade">05. Taxation &amp; Trade (3)</option>
+          <option value="Export & Trade Services">06. Export &amp; Trade Services (3)</option>
+          <option value="Supply Chain Compliance">07. Supply Chain Compliance (3)</option>
+          <option value="Escrow Services">08. Escrow Services (2)</option>
+          <option value="Enterprise Governance">09. Enterprise Governance (3)</option>
+          <option value="Risk Management">10. Risk Management (3)</option>
+          <option value="ESG & Sustainability">11. ESG &amp; Sustainability (3)</option>
+          <option value="Cybersecurity & Privacy">12. Cybersecurity &amp; Privacy (4)</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Layout (Grid + Drawer Modal) -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full">
+    
+    <div class="flex items-center justify-between mb-6">
+      <div class="text-sm text-slate-500">
+        Showing <span id="articleCount" class="font-bold text-slate-900">40</span> articles
+      </div>
+      <div class="text-xs text-slate-500">
+        Click any card to read full executive article with citations &amp; control matrices
+      </div>
+    </div>
+
+    <!-- Article Cards Grid -->
+    <div id="articlesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Populated via JavaScript from window.GOVENICS_ARTICLES -->
+    </div>
+
+    <!-- Empty State -->
+    <div id="noResults" class="hidden text-center py-16 bg-white rounded-2xl border border-slate-200">
+      <i data-lucide="file-question" class="w-12 h-12 text-slate-300 mx-auto mb-3"></i>
+      <h3 class="text-lg font-bold text-slate-700">No matching articles found</h3>
+      <p class="text-sm text-slate-500 mt-1">Try refining your search keyword or selecting "All Offerings".</p>
+    </div>
+  </main>
+
+  <!-- Full Article Modal / Drawer -->
+  <div id="articleModal" class="fixed inset-0 z-50 hidden overflow-y-auto bg-slate-950/70 backdrop-blur-sm flex justify-center p-2 sm:p-4">
+    <div class="bg-white w-full max-w-4xl rounded-2xl shadow-2xl overflow-hidden my-auto max-h-[92vh] flex flex-col border border-slate-200">
+      
+      <!-- Modal Header -->
+      <div class="p-5 sm:p-6 bg-slate-900 text-white flex items-start justify-between border-b border-slate-800">
+        <div class="space-y-1.5 pr-4">
+          <div class="flex items-center space-x-2">
+            <span id="modalId" class="px-2 py-0.5 rounded text-[10px] font-black tracking-wider bg-blue-600 text-white"></span>
+            <span id="modalOffering" class="text-xs font-semibold text-blue-400"></span>
+            <span class="text-slate-500">•</span>
+            <span id="modalWordCount" class="text-xs text-slate-400"></span>
+          </div>
+          <h2 id="modalTitle" class="text-lg sm:text-xl font-bold font-heading text-white leading-snug"></h2>
+        </div>
+        <button id="closeModalBtn" class="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 transition">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+
+      <!-- Modal Meta Toolbar -->
+      <div class="bg-slate-100 px-6 py-2.5 border-b border-slate-200 flex flex-wrap items-center justify-between text-xs text-slate-600 gap-2">
+        <div class="flex items-center space-x-4">
+          <div><strong class="text-slate-800">Target ICP:</strong> <span id="modalIcp"></span></div>
+          <div><strong class="text-slate-800">Industry:</strong> <span id="modalIndustry"></span></div>
+        </div>
+        <div class="flex items-center space-x-2">
+          <button id="copyMarkdownBtn" class="inline-flex items-center space-x-1 px-2.5 py-1 rounded bg-white border border-slate-300 hover:bg-slate-50 text-slate-700 font-semibold transition">
+            <i data-lucide="copy" class="w-3.5 h-3.5"></i>
+            <span>Copy Markdown</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Modal Body (Parsed Markdown) -->
+      <div id="modalBody" class="p-6 sm:p-8 overflow-y-auto flex-1 prose-article"></div>
+      
+      <!-- Modal Footer -->
+      <div class="p-4 bg-slate-50 border-t border-slate-200 flex justify-between items-center text-xs text-slate-500">
+        <div>GOVENICS GRC — Enterprise Advisory Document</div>
+        <button id="modalCloseBottom" class="px-4 py-2 rounded-lg bg-slate-200 hover:bg-slate-300 font-bold text-slate-700 transition">
+          Close Article
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-navy-950 text-slate-400 border-t border-slate-800 py-8 px-4 text-xs mt-auto">
+    <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center space-x-2">
+        <span class="font-bold text-white">GOVENICS GRC</span>
+        <span>•</span>
+        <span>A Division of ISI Group (Est. 1985)</span>
+      </div>
+      <div>
+        Independent LinkedIn Article Knowledge Repository • 40 Articles • Certified Full Compliance
+      </div>
+    </div>
+  </footer>
+
+  <!-- Load Data and Application Logic -->
+  <script src="articles_data.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const articles = window.GOVENICS_ARTICLES || [];
+      const grid = document.getElementById("articlesGrid");
+      const searchInput = document.getElementById("searchInput");
+      const offeringFilter = document.getElementById("offeringFilter");
+      const countEl = document.getElementById("articleCount");
+      const noResults = document.getElementById("noResults");
+
+      // Modal elements
+      const modal = document.getElementById("articleModal");
+      const closeModalBtn = document.getElementById("closeModalBtn");
+      const modalCloseBottom = document.getElementById("modalCloseBottom");
+      const modalId = document.getElementById("modalId");
+      const modalOffering = document.getElementById("modalOffering");
+      const modalWordCount = document.getElementById("modalWordCount");
+      const modalTitle = document.getElementById("modalTitle");
+      const modalIcp = document.getElementById("modalIcp");
+      const modalIndustry = document.getElementById("modalIndustry");
+      const modalBody = document.getElementById("modalBody");
+      const copyMarkdownBtn = document.getElementById("copyMarkdownBtn");
+
+      let currentArticle = null;
+
+      function renderArticles(list) {
+        grid.innerHTML = "";
+        countEl.textContent = list.length;
+        if (list.length === 0) {
+          noResults.classList.remove("hidden");
+          return;
+        }
+        noResults.classList.add("hidden");
+
+        list.forEach(item => {
+          const card = document.createElement("div");
+          card.className = "bg-white rounded-2xl border border-slate-200 hover:border-blue-400 shadow-sm hover:shadow-lg transition-all duration-200 flex flex-col justify-between p-5 cursor-pointer group";
+          
+          card.innerHTML = `
+            <div>
+              <div class="flex items-center justify-between mb-3">
+                <span class="px-2.5 py-1 rounded-md text-[10px] font-black tracking-wider bg-slate-100 text-slate-700 group-hover:bg-blue-600 group-hover:text-white transition">
+                  ${item.article_id}
+                </span>
+                <span class="text-[11px] font-semibold text-blue-600">
+                  ${item.offering}
+                </span>
+              </div>
+              <h3 class="text-base font-bold text-slate-900 group-hover:text-blue-600 transition leading-snug mb-2 font-heading">
+                ${item.title}
+              </h3>
+              <p class="text-xs text-slate-500 line-clamp-2 leading-relaxed mb-4">
+                Target ICP: ${item.primary_icp} • Industry: ${item.industry}
+              </p>
+            </div>
+            
+            <div class="pt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
+              <span class="font-medium">${item.word_count || 2200} words (~${item.reading_time_minutes || 10} min)</span>
+              <span class="text-blue-600 font-bold flex items-center gap-1 group-hover:translate-x-0.5 transition">
+                Read Article &rarr;
+              </span>
+            </div>
+          `;
+
+          card.addEventListener("click", () => openModal(item));
+          grid.appendChild(card);
+        });
+
+        lucide.createIcons();
+      }
+
+      function openModal(item) {
+        currentArticle = item;
+        modalId.textContent = item.article_id;
+        modalOffering.textContent = item.offering;
+        modalWordCount.textContent = `${item.word_count || 2200} words (${item.reading_time_minutes || 11} min read)`;
+        modalTitle.textContent = item.title;
+        modalIcp.textContent = `${item.primary_icp} (Secondary: ${item.secondary_icp || 'Board'})`;
+        modalIndustry.textContent = item.industry;
+        
+        // Parse markdown content
+        const md = item.content_markdown || "# Article Content Loading...";
+        modalBody.innerHTML = marked.parse(md);
+        
+        modal.classList.remove("hidden");
+        document.body.style.overflow = "hidden";
+        lucide.createIcons();
+      }
+
+      function closeModal() {
+        modal.classList.add("hidden");
+        document.body.style.overflow = "auto";
+      }
+
+      closeModalBtn.addEventListener("click", closeModal);
+      modalCloseBottom.addEventListener("click", closeModal);
+      modal.addEventListener("click", (e) => {
+        if (e.target === modal) closeModal();
+      });
+
+      copyMarkdownBtn.addEventListener("click", () => {
+        if (currentArticle && currentArticle.content_markdown) {
+          navigator.clipboard.writeText(currentArticle.content_markdown);
+          const orig = copyMarkdownBtn.innerHTML;
+          copyMarkdownBtn.innerHTML = `<span>Copied!</span>`;
+          setTimeout(() => copyMarkdownBtn.innerHTML = orig, 2000);
+        }
+      });
+
+      function filterArticles() {
+        const query = searchInput.value.toLowerCase().trim();
+        const selectedOffering = offeringFilter.value;
+
+        const filtered = articles.filter(a => {
+          const matchOffering = selectedOffering === "ALL" || a.offering === selectedOffering;
+          const matchQuery = !query || 
+            (a.title && a.title.toLowerCase().includes(query)) ||
+            (a.article_id && a.article_id.toLowerCase().includes(query)) ||
+            (a.industry && a.industry.toLowerCase().includes(query)) ||
+            (a.primary_icp && a.primary_icp.toLowerCase().includes(query)) ||
+            (a.keywords && a.keywords.some(k => k.toLowerCase().includes(query)));
+          return matchOffering && matchQuery;
+        });
+
+        renderArticles(filtered);
+      }
+
+      searchInput.addEventListener("input", filterArticles);
+      offeringFilter.addEventListener("change", filterArticles);
+
+      // Initial render
+      renderArticles(articles);
+    });
+  </script>
+</body>
+</html>
