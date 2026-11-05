@@ -1,0 +1,1082 @@
+[
+  {
+    "article_id": "GOV-LIA-001",
+    "title": "Architecting Board-Level Statutory Compliance Frameworks in Multi-Jurisdictional Indian Manufacturing",
+    "offering": "Regulatory Compliance",
+    "industry": "Manufacturing and Industrial",
+    "primary_icp": "Chief Compliance Officer",
+    "secondary_icp": "Company Secretary",
+    "category": "Corporate Governance & Statutory Oversight",
+    "keywords": [
+      "Statutory Compliance",
+      "Section 134(5)(f)",
+      "Manufacturing Compliance",
+      "Indian Companies Act",
+      "Board Governance"
+    ],
+    "word_count": 2208,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "01_Regulatory_Compliance/GOV-LIA-001.md",
+    "research_sources": [
+      "https://www.mca.gov.in/content/mca/global/en/acts-rules/companies-act/companies-act-2013.html",
+      "https://www.indiacode.nic.in/handle/123456789/2114"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-002",
+    "title": "SEBI LODR Compliance Governance: Managing Materiality, Related Party Transactions, and Board Oversight",
+    "offering": "Regulatory Compliance",
+    "industry": "BFSI and Large Enterprises",
+    "primary_icp": "Chief Compliance Officer",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Capital Markets & Securities Governance",
+    "keywords": [
+      "SEBI LODR",
+      "Regulation 23 RPT",
+      "Materiality Policy",
+      "Listed Company Governance",
+      "Audit Committee"
+    ],
+    "word_count": 2223,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "01_Regulatory_Compliance/GOV-LIA-002.md",
+    "research_sources": [
+      "https://www.sebi.gov.in/legal/regulations/jan-2024/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-january-17-2024-_80728.html",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-003",
+    "title": "Digital Personal Data Protection (DPDP) Act 2023: Enterprise Data Fiduciary Governance for BFSI & Fintech",
+    "offering": "Regulatory Compliance",
+    "industry": "BFSI and Fintech",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Chief Legal Officer",
+    "category": "Data Governance & Statutory Risk",
+    "keywords": [
+      "DPDP Act 2023",
+      "Data Fiduciary",
+      "Data Protection Board",
+      "Consent Architecture",
+      "Fintech Compliance"
+    ],
+    "word_count": 2227,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "01_Regulatory_Compliance/GOV-LIA-003.md",
+    "research_sources": [
+      "https://www.meity.gov.in/content/digital-personal-data-protection-act-2023",
+      "https://www.indiacode.nic.in/handle/123456789/19084"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-004",
+    "title": "Navigating State-Level Industrial Approvals & Single Window Systems: A Multi-State Manufacturing Playbook",
+    "offering": "Regulatory Compliance",
+    "industry": "Automotive and Auto Components",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "Chief Operating Officer",
+    "category": "State Regulatory Operations",
+    "keywords": [
+      "Single Window Clearance",
+      "State Industrial Policy",
+      "Factory Approvals",
+      "DISH Compliance",
+      "State Licensing"
+    ],
+    "word_count": 2213,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "01_Regulatory_Compliance/GOV-LIA-004.md",
+    "research_sources": [
+      "https://dpiit.gov.in/business-reforms/business-reforms-action-plan-brap",
+      "https://www.investindia.gov.in/national-single-window-system"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-005",
+    "title": "Global Capability Centres (GCCs) in India: Managing Corporate Secretarial, FEMA & Cross-Border Compliance",
+    "offering": "Regulatory Compliance",
+    "industry": "Global Capability Centres (GCCs)",
+    "primary_icp": "General Counsel",
+    "secondary_icp": "Chief Compliance Officer",
+    "category": "Cross-Border Regulatory Governance",
+    "keywords": [
+      "GCC India",
+      "FEMA Regulations",
+      "Transfer Pricing",
+      "STPI Compliance",
+      "MCA Filings"
+    ],
+    "word_count": 2222,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "01_Regulatory_Compliance/GOV-LIA-005.md",
+    "research_sources": [
+      "https://www.rbi.org.in/Scripts/Fema.aspx",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-006",
+    "title": "Transitioning to India's Four Labour Codes: A Strategic Roadmap for Enterprise Workforce Rationalization",
+    "offering": "Labour & Employment",
+    "industry": "Manufacturing and Industrial",
+    "primary_icp": "HR Directors",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Labour Law Modernization",
+    "keywords": [
+      "Labour Codes India",
+      "Code on Wages 2019",
+      "OSH Code",
+      "Social Security Code",
+      "Industrial Relations Code"
+    ],
+    "word_count": 2224,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "02_Labour_Employment/GOV-LIA-006.md",
+    "research_sources": [
+      "https://labour.gov.in/labour-codes",
+      "https://www.indiacode.nic.in/handle/123456789/13247"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-007",
+    "title": "Contract Labour Regulation & Abolition (CLRA) Governance: Mitigating Co-Employment & Vendor Liabilities",
+    "offering": "Labour & Employment",
+    "industry": "Logistics and Supply Chain",
+    "primary_icp": "HR Directors",
+    "secondary_icp": "Procurement Leaders",
+    "category": "Contract Workforce Compliance",
+    "keywords": [
+      "CLRA Act 1970",
+      "Contractor Audit",
+      "Principal Employer Liability",
+      "Minimum Wages",
+      "PF ESIC Remittance"
+    ],
+    "word_count": 2214,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "02_Labour_Employment/GOV-LIA-007.md",
+    "research_sources": [
+      "https://clc.gov.in/clc/acts-rules/contract-labour-regulation-and-abolition-act-1970",
+      "https://www.epfindia.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-008",
+    "title": "POSH Act Compliance Architecture: Strengthening Internal Committees, Inquiries & Board Disclosures",
+    "offering": "Labour & Employment",
+    "industry": "IT and Technology",
+    "primary_icp": "HR Directors",
+    "secondary_icp": "Chief Compliance Officer",
+    "category": "Workplace Governance & Ethics",
+    "keywords": [
+      "POSH Act 2013",
+      "Internal Committee IC",
+      "Annual Report Section 134",
+      "Workplace Safety",
+      "Prevention of Harassment"
+    ],
+    "word_count": 2212,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "02_Labour_Employment/GOV-LIA-008.md",
+    "research_sources": [
+      "https://wcd.nic.in/act/handbook-sexual-harassment-women-workplace",
+      "https://www.indiacode.nic.in/handle/123456789/2104"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-009",
+    "title": "Factories Act & State Shops and Establishments Act: Harmonizing Multi-Facility Workforce Registers & Audits",
+    "offering": "Labour & Employment",
+    "industry": "Electronics and Semiconductors",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "HR Directors",
+    "category": "Facility Workforce Compliance",
+    "keywords": [
+      "Factories Act 1948",
+      "Shops and Establishments",
+      "Statutory Registers",
+      "Overtime Compliance",
+      "Shift Working Regulations"
+    ],
+    "word_count": 2203,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "02_Labour_Employment/GOV-LIA-009.md",
+    "research_sources": [
+      "https://labour.gov.in/factories-act-1948",
+      "https://www.indiacode.nic.in/handle/123456789/1897"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-010",
+    "title": "CPCB Consent Management: Navigating CTE, CTO, and Effluent Standards for Red & Orange Industrial Categories",
+    "offering": "Environmental & EHS",
+    "industry": "Chemicals and Petrochemicals",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "ESG Leaders",
+    "category": "Pollution Control & Licensing",
+    "keywords": [
+      "Consent to Establish CTE",
+      "Consent to Operate CTO",
+      "Water Act 1974",
+      "Air Act 1981",
+      "CPCB Industrial Categorization"
+    ],
+    "word_count": 2223,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "03_Environmental_EHS/GOV-LIA-010.md",
+    "research_sources": [
+      "https://cpcb.nic.in/categorization-of-industrial-sectors/",
+      "https://parivesh.nic.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-011",
+    "title": "Hazardous & Other Wastes Rules 2016: Chain of Custody, Manifest Systems, and TSDF Co-Processing Protocols",
+    "offering": "Environmental & EHS",
+    "industry": "Pharmaceuticals and Medical Devices",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "Chief Risk Officer",
+    "category": "Waste Management Governance",
+    "keywords": [
+      "Hazardous Waste Rules 2016",
+      "Form 10 Manifest",
+      "TSDF Disposal",
+      "Extended Producer Responsibility",
+      "SPCB Authorization"
+    ],
+    "word_count": 2219,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "03_Environmental_EHS/GOV-LIA-011.md",
+    "research_sources": [
+      "https://cpcb.nic.in/hazardous-waste-rules-2016/",
+      "https://moef.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-012",
+    "title": "Environmental Impact Assessment (EIA) & Forest Clearances: Strategic Project Planning for Large Infrastructure",
+    "offering": "Environmental & EHS",
+    "industry": "Manufacturing and Industrial",
+    "primary_icp": "Chief Operating Officer",
+    "secondary_icp": "Legal Heads",
+    "category": "Environmental Clearance",
+    "keywords": [
+      "EIA Notification 2006",
+      "Environmental Clearance EC",
+      "Parivesh Portal",
+      "Public Hearing Protocol",
+      "MoEFCC Compliance"
+    ],
+    "word_count": 2215,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "03_Environmental_EHS/GOV-LIA-012.md",
+    "research_sources": [
+      "https://parivesh.nic.in/",
+      "https://moef.gov.in/en/division/forest-divisions/forest-clearance/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-013",
+    "title": "Industrial Health, Safety Audits & On-Site Emergency Plans under the Manufacture, Storage and Import of Hazardous Chemicals Rules",
+    "offering": "Environmental & EHS",
+    "industry": "Automotive and Auto Components",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "Chief Risk Officer",
+    "category": "Occupational Safety & Disaster Mitigation",
+    "keywords": [
+      "MSIHC Rules 1989",
+      "On-site Emergency Plan",
+      "Safety Audit IS 14489",
+      "Major Accident Hazard MAH",
+      "Factory Safety Officer"
+    ],
+    "word_count": 2246,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "03_Environmental_EHS/GOV-LIA-013.md",
+    "research_sources": [
+      "https://moef.gov.in/en/rules-and-regulations/environment-protection/hazard-waste-management/",
+      "https://dgfasli.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-014",
+    "title": "FSSAI Licensing & Food Safety Compliance Architecture: Traceability, Labeling & Lab Audits for Food Processors",
+    "offering": "Licensing & Permits",
+    "industry": "Food Processing",
+    "primary_icp": "Chief Compliance Officer",
+    "secondary_icp": "Plant Directors",
+    "category": "Food Safety Regulatory Affairs",
+    "keywords": [
+      "FSSAI Central License",
+      "FSS Act 2006",
+      "FoSTaC Certification",
+      "Packaging and Labeling Regulations",
+      "Food Recall Protocol"
+    ],
+    "word_count": 2217,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "04_Licensing_Permits/GOV-LIA-014.md",
+    "research_sources": [
+      "https://www.fssai.gov.in/",
+      "https://foscos.fssai.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-015",
+    "title": "PESO Licensing & Explosives Safety Protocol: Managing Class A/B Hydrocarbons, Storage & Pipeline Approvals",
+    "offering": "Licensing & Permits",
+    "industry": "Chemicals and Petrochemicals",
+    "primary_icp": "Plant Directors",
+    "secondary_icp": "Chief Operating Officer",
+    "category": "Industrial Dangerous Goods Licensing",
+    "keywords": [
+      "PESO Approvals",
+      "Petroleum Rules 2002",
+      "Static and Mobile Pressure Vessels SMPV",
+      "Explosives Rules 2008",
+      "Hazardous Storage"
+    ],
+    "word_count": 2224,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "04_Licensing_Permits/GOV-LIA-015.md",
+    "research_sources": [
+      "https://peso.gov.in/",
+      "https://dpiit.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-016",
+    "title": "Legal Metrology Packaged Commodities (LMPC) Rules: Ensuring Accurate Declarations & Mandatory Disclosures",
+    "offering": "Licensing & Permits",
+    "industry": "Electronics and Semiconductors",
+    "primary_icp": "Chief Compliance Officer",
+    "secondary_icp": "Legal Heads",
+    "category": "Product Standards & Weights Enforcement",
+    "keywords": [
+      "Legal Metrology Act 2009",
+      "LMPC Rules 2011",
+      "Packaged Commodity Declarations",
+      "E-commerce Disclosures",
+      "Director Nomination"
+    ],
+    "word_count": 2213,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "04_Licensing_Permits/GOV-LIA-016.md",
+    "research_sources": [
+      "https://consumeraffairs.nic.in/acts-and-rules/legal-metrology",
+      "https://www.indiacode.nic.in/handle/123456789/2042"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-017",
+    "title": "GST Anti-Evasion Audits, GSTR-2B Matching, and E-Invoicing Reconciliation: Protecting Enterprise Input Tax Credits",
+    "offering": "Taxation & Trade",
+    "industry": "Large Enterprises",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Company Secretary",
+    "category": "Indirect Tax Governance",
+    "keywords": [
+      "GSTR-2B Reconciliation",
+      "Section 16(2)(aa) CGST",
+      "E-Invoicing Rule 48(4)",
+      "Input Tax Credit ITC",
+      "GST Audit Defense"
+    ],
+    "word_count": 2220,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "05_Taxation_Trade/GOV-LIA-017.md",
+    "research_sources": [
+      "https://www.cbic.gov.in/",
+      "https://www.gst.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-018",
+    "title": "Transfer Pricing Governance & APA Strategies for Indian Subsidiaries of Multinational Corporations",
+    "offering": "Taxation & Trade",
+    "industry": "Global Capability Centres (GCCs)",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Chief Executive Officers",
+    "category": "International Tax & Cross-Border Pricing",
+    "keywords": [
+      "Transfer Pricing Section 92",
+      "Advance Pricing Agreement APA",
+      "Master File Form 3CEAA",
+      "Arm's Length Principle",
+      "Safe Harbour Rules"
+    ],
+    "word_count": 2235,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "05_Taxation_Trade/GOV-LIA-018.md",
+    "research_sources": [
+      "https://incometaxindia.gov.in/Pages/international-taxation/transfer-pricing.aspx",
+      "https://www.incometax.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-019",
+    "title": "Corporate Tax Compliance under Section 115BAA: Reconciling Disallowances, MAT Exemption & Capital Gains",
+    "offering": "Taxation & Trade",
+    "industry": "Automotive and Auto Components",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Board Members",
+    "category": "Direct Tax Strategic Optimization",
+    "keywords": [
+      "Section 115BAA",
+      "Corporate Tax 22%",
+      "MAT Section 115JB",
+      "Tax Audit Form 3CD",
+      "Deductions Restriction"
+    ],
+    "word_count": 2223,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "05_Taxation_Trade/GOV-LIA-019.md",
+    "research_sources": [
+      "https://incometaxindia.gov.in/",
+      "https://www.indiacode.nic.in/handle/123456789/2435"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-020",
+    "title": "Foreign Trade Policy 2023: Maximizing Advance Authorization & EPCG Scheme Benefits While Avoiding Penalties",
+    "offering": "Export & Trade Services",
+    "industry": "Export-oriented Organisations",
+    "primary_icp": "Export Managers",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Export Incentive Governance",
+    "keywords": [
+      "FTP 2023",
+      "Advance Authorization",
+      "EPCG Scheme",
+      "Export Obligation EO",
+      "DGFT Regional Authority"
+    ],
+    "word_count": 2219,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "06_Export_Trade_Services/GOV-LIA-020.md",
+    "research_sources": [
+      "https://www.dgft.gov.in/CP/",
+      "https://commerce.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-021",
+    "title": "Authorized Economic Operator (AEO T1/T2/T3) Certification: Fast-Tracking Customs Clearance & Duty Deferrals",
+    "offering": "Export & Trade Services",
+    "industry": "Logistics and Supply Chain",
+    "primary_icp": "Export Managers",
+    "secondary_icp": "Procurement Leaders",
+    "category": "Customs Supply Chain Security",
+    "keywords": [
+      "AEO Tier 2 Certification",
+      "Customs Fast Track",
+      "Deferred Duty Payment",
+      "CBIC Circular 33/2016",
+      "Mutual Recognition MRA"
+    ],
+    "word_count": 2220,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "06_Export_Trade_Services/GOV-LIA-021.md",
+    "research_sources": [
+      "https://www.cbic.gov.in/htdocs-cbec/customs/cs-act/aeo-website",
+      "https://icegate.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-022",
+    "title": "Special Economic Zones (SEZ) to DESH Bill Transition: Duty Foregone Remittances, DTA Sales & Depreciation Norms",
+    "offering": "Export & Trade Services",
+    "industry": "Electronics and Semiconductors",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Plant Directors",
+    "category": "Special Economic Zone Regulations",
+    "keywords": [
+      "SEZ Act 2005",
+      "DTA Sales Clearance",
+      "Net Foreign Exchange NFE",
+      "Customs Bond Maintenance",
+      "SEZ Online Portal"
+    ],
+    "word_count": 2234,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "06_Export_Trade_Services/GOV-LIA-022.md",
+    "research_sources": [
+      "https://www.sezonline-ndml.co.in/",
+      "https://commerce.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-023",
+    "title": "Multi-Tier Vendor Risk Governance: Mitigating Statutory Default Contagion across Vendor Ecosystems",
+    "offering": "Supply Chain Compliance",
+    "industry": "Automotive and Auto Components",
+    "primary_icp": "Procurement Leaders",
+    "secondary_icp": "Chief Risk Officer",
+    "category": "Third-Party Risk Management",
+    "keywords": [
+      "Vendor Compliance Audit",
+      "Tier 2 Vendor Oversight",
+      "Contractual Indemnities",
+      "Statutory Due Diligence",
+      "Supply Chain Continuity"
+    ],
+    "word_count": 2216,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "07_Supply_Chain_Compliance/GOV-LIA-023.md",
+    "research_sources": [
+      "https://dpiit.gov.in/",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-024",
+    "title": "MSME 45-Day Payment Mandate under Section 43B(h): Enterprise Liquidity, Vendor Classification & Tax Disallowance",
+    "offering": "Supply Chain Compliance",
+    "industry": "Large Enterprises",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Procurement Leaders",
+    "category": "Statutory Vendor Settlement",
+    "keywords": [
+      "Section 43B(h) Income Tax",
+      "MSMED Act Section 15",
+      "45-Day Payment Rule",
+      "Udyam Verification",
+      "Compound Interest Liability"
+    ],
+    "word_count": 2222,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "07_Supply_Chain_Compliance/GOV-LIA-024.md",
+    "research_sources": [
+      "https://msme.gov.in/",
+      "https://incometaxindia.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-025",
+    "title": "Global ESG Due Diligence in Supply Chains: EU CSDDD Alignment for Indian Tier-1 Exporters",
+    "offering": "Supply Chain Compliance",
+    "industry": "Textiles",
+    "primary_icp": "ESG Leaders",
+    "secondary_icp": "Export Managers",
+    "category": "Cross-Border Sustainable Supply Chains",
+    "keywords": [
+      "EU CSDDD Compliance",
+      "Supply Chain Human Rights",
+      "BRSR Core Value Chain",
+      "Scope 3 Supplier Emissions",
+      "Traceability Audits"
+    ],
+    "word_count": 2211,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "07_Supply_Chain_Compliance/GOV-LIA-025.md",
+    "research_sources": [
+      "https://www.sebi.gov.in/legal/circulars/jul-2023/brsr-core-framework-for-assurance-and-esg-disclosures-for-value-chain_73854.html",
+      "https://commerce.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-026",
+    "title": "Cross-Border M&A Escrow Mechanisms in India: FEMA Compliance, Indemnity Holdbacks & Milestone Release Governance",
+    "offering": "Escrow Services",
+    "industry": "BFSI and Fintech",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Legal Heads",
+    "category": "Transaction Risk & Escrow Governance",
+    "keywords": [
+      "M&A Escrow Accounts",
+      "FEMA Inward Remittance",
+      "Indemnity Holdback Agreement",
+      "RBI Escrow Guidelines",
+      "Dispute Arbitration"
+    ],
+    "word_count": 2213,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "08_Escrow_Services/GOV-LIA-026.md",
+    "research_sources": [
+      "https://www.rbi.org.in/",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-027",
+    "title": "Commercial Real Estate & Infrastructure Project Escrows: Securing Multi-Party EPC Cash Flows & RERA Trust Mandates",
+    "offering": "Escrow Services",
+    "industry": "Large Enterprises",
+    "primary_icp": "Chief Financial Officer",
+    "secondary_icp": "Board Members",
+    "category": "Project Finance & RERA Fund Ring-Fencing",
+    "keywords": [
+      "RERA 70% Escrow Rule",
+      "EPC Project Escrow",
+      "Waterfall Payment Mechanism",
+      "Chartered Engineer Certification",
+      "Lender Protection"
+    ],
+    "word_count": 2220,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "08_Escrow_Services/GOV-LIA-027.md",
+    "research_sources": [
+      "https://mohua.gov.in/cms/real-estate-regulation-and-development-act-2016.php",
+      "https://www.indiacode.nic.in/handle/123456789/2158"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-028",
+    "title": "Corporate Board Committee Effectiveness: Optimizing Audit, Nomination & Remuneration, and Risk Management Charters",
+    "offering": "Enterprise Governance",
+    "industry": "Large Enterprises",
+    "primary_icp": "Board Members",
+    "secondary_icp": "Company Secretary",
+    "category": "Board Governance & Effectiveness",
+    "keywords": [
+      "Section 177 Audit Committee",
+      "Section 178 NRC",
+      "Risk Management Committee",
+      "Independent Director Evaluation",
+      "Secretarial Standard 1"
+    ],
+    "word_count": 2205,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "09_Enterprise_Governance/GOV-LIA-028.md",
+    "research_sources": [
+      "https://www.mca.gov.in/",
+      "https://www.icsi.edu/media/webmodules/SS-1.pdf"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-029",
+    "title": "Related Party Transaction (RPT) Governance: Omnibus Approvals, Arm's Length Benchmarking & Board Scrutiny",
+    "offering": "Enterprise Governance",
+    "industry": "Automotive and Auto Components",
+    "primary_icp": "Company Secretary",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Fiduciary Oversight & Fair Dealing",
+    "keywords": [
+      "Section 188 Companies Act",
+      "SEBI LODR Regulation 23",
+      "Omnibus Approval Audit Committee",
+      "Arm's Length Transfer Pricing",
+      "Shareholder Resolution"
+    ],
+    "word_count": 2221,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "09_Enterprise_Governance/GOV-LIA-029.md",
+    "research_sources": [
+      "https://www.mca.gov.in/",
+      "https://www.sebi.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-030",
+    "title": "Corporate Social Responsibility (CSR) Audit Framework: Impact Assessments, Unspent CSR Accounts & Section 135 Compliance",
+    "offering": "Enterprise Governance",
+    "industry": "Pharmaceuticals and Medical Devices",
+    "primary_icp": "Chief Compliance Officer",
+    "secondary_icp": "Company Secretary",
+    "category": "Social Governance & Fiduciary Accountability",
+    "keywords": [
+      "Section 135 Companies Act",
+      "CSR Impact Assessment",
+      "Unspent CSR Account Schedule VII",
+      "CSR Policy Rules 2021",
+      "Penal Provisions Section 135(7)"
+    ],
+    "word_count": 2232,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "09_Enterprise_Governance/GOV-LIA-030.md",
+    "research_sources": [
+      "https://www.mca.gov.in/Ministry/pdf/CSRAmendmentRules_23012021.pdf",
+      "https://www.csr.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-031",
+    "title": "Enterprise Risk Management (ERM) Architecture: Integrating ISO 31000 & COSO Frameworks for Indian Corporates",
+    "offering": "Risk Management",
+    "industry": "Manufacturing and Industrial",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Chief Executive Officers",
+    "category": "Enterprise Risk Architecture",
+    "keywords": [
+      "ISO 31000 ERM",
+      "COSO Framework",
+      "Risk Appetite Statement",
+      "Key Risk Indicators KRI",
+      "Risk Heat Map"
+    ],
+    "word_count": 2215,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "10_Risk_Management/GOV-LIA-031.md",
+    "research_sources": [
+      "https://www.iso.org/iso-31000-risk-management.html",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-032",
+    "title": "Operational Risk Stress Testing & Scenario Analysis for Systemically Important NBFCs & Fintechs",
+    "offering": "Risk Management",
+    "industry": "BFSI and Fintech",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Financial Sector Prudential Governance",
+    "keywords": [
+      "RBI Scale Based Regulation",
+      "NBFC Risk Management",
+      "Liquidity Risk Framework",
+      "Stress Testing Scenarios",
+      "Capital Adequacy Ratio"
+    ],
+    "word_count": 2224,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "10_Risk_Management/GOV-LIA-032.md",
+    "research_sources": [
+      "https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9900",
+      "https://www.rbi.org.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-033",
+    "title": "Business Continuity Planning (BCP) & Disaster Recovery (DR): ISO 22301 Governance for Mission-Critical Facilities",
+    "offering": "Risk Management",
+    "industry": "IT and Technology",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Plant Directors",
+    "category": "Resilience & Continuity Management",
+    "keywords": [
+      "ISO 22301 BCM",
+      "Business Impact Analysis BIA",
+      "RTO Recovery Time Objective",
+      "RPO Recovery Point Objective",
+      "Disaster Recovery Testing"
+    ],
+    "word_count": 2217,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "10_Risk_Management/GOV-LIA-033.md",
+    "research_sources": [
+      "https://www.iso.org/standard/75106.html",
+      "https://www.cert-in.org.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-034",
+    "title": "BRSR Core Reasonable Assurance Playbook: Navigating SEBI's Nine ESG Attributes & Audit Trails",
+    "offering": "ESG & Sustainability",
+    "industry": "Large Enterprises",
+    "primary_icp": "ESG Leaders",
+    "secondary_icp": "Chief Financial Officer",
+    "category": "Mandatory ESG Reporting & Assurance",
+    "keywords": [
+      "BRSR Core",
+      "SEBI Circular July 2023",
+      "Reasonable Assurance",
+      "GHG Protocol Scope 1 and 2",
+      "Water Footprint Audits"
+    ],
+    "word_count": 2212,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "11_ESG_Sustainability/GOV-LIA-034.md",
+    "research_sources": [
+      "https://www.sebi.gov.in/legal/circulars/jul-2023/brsr-core-framework-for-assurance-and-esg-disclosures-for-value-chain_73854.html",
+      "https://www.mca.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-035",
+    "title": "Extended Producer Responsibility (EPR) Compliance for Plastic, E-Waste & Battery Waste in Indian Industry",
+    "offering": "ESG & Sustainability",
+    "industry": "Electronics and Semiconductors",
+    "primary_icp": "ESG Leaders",
+    "secondary_icp": "Plant Directors",
+    "category": "Circular Economy Regulatory Mandates",
+    "keywords": [
+      "Plastic Waste Management EPR",
+      "E-Waste Rules 2022",
+      "Battery Waste Management Rules",
+      "CPCB EPR Portal",
+      "Recycling Certificates"
+    ],
+    "word_count": 2214,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "11_ESG_Sustainability/GOV-LIA-035.md",
+    "research_sources": [
+      "https://eprplastic.cpcb.gov.in/",
+      "https://cpcb.nic.in/e-waste/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-036",
+    "title": "Decarbonization Roadmap & Net-Zero Transition Governance for Indian Heavy Manufacturing",
+    "offering": "ESG & Sustainability",
+    "industry": "Chemicals and Petrochemicals",
+    "primary_icp": "Chief Executive Officers",
+    "secondary_icp": "ESG Leaders",
+    "category": "Decarbonization & Industrial Energy Transition",
+    "keywords": [
+      "Perform Achieve and Trade PAT",
+      "Carbon Credit Trading Scheme CCTS",
+      "Science Based Targets SBTi",
+      "Energy Conservation Act",
+      "Bureau of Energy Efficiency"
+    ],
+    "word_count": 2220,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "11_ESG_Sustainability/GOV-LIA-036.md",
+    "research_sources": [
+      "https://beeindia.gov.in/",
+      "https://powermin.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-037",
+    "title": "CERT-In 6-Hour Cyber Incident Reporting Mandate: Incident Response Runbooks, Log Retention & Legal Liability",
+    "offering": "Cybersecurity & Privacy",
+    "industry": "IT and Technology",
+    "primary_icp": "Chief Information Security Officer",
+    "secondary_icp": "Chief Risk Officer",
+    "category": "Cybersecurity Statutory Oversight",
+    "keywords": [
+      "CERT-In Directions April 2022",
+      "6-Hour Incident Reporting",
+      "Log Retention 180 Days",
+      "NTP Server Sync",
+      "CISO Board Reporting"
+    ],
+    "word_count": 2235,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "12_Cybersecurity_Privacy/GOV-LIA-037.md",
+    "research_sources": [
+      "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+      "https://www.meity.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-038",
+    "title": "RBI Master Direction on Information Technology Governance & Cyber Security Resilience for Regulated Entities",
+    "offering": "Cybersecurity & Privacy",
+    "industry": "BFSI and Fintech",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Chief Compliance Officer",
+    "category": "Banking Cyber Governance",
+    "keywords": [
+      "RBI Master Direction IT Governance",
+      "Cyber Security Framework",
+      "SOC 2 Type II",
+      "VAPT Audits",
+      "Third Party Cyber Risk"
+    ],
+    "word_count": 2230,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "12_Cybersecurity_Privacy/GOV-LIA-038.md",
+    "research_sources": [
+      "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12554",
+      "https://www.rbi.org.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-039",
+    "title": "Building an Enterprise Data Privacy Governance Office under India's DPDP Act: ROPA, DPIA & Consent Management",
+    "offering": "Cybersecurity & Privacy",
+    "industry": "Healthcare",
+    "primary_icp": "Data Protection Officer",
+    "secondary_icp": "General Counsel",
+    "category": "Enterprise Privacy Engineering",
+    "keywords": [
+      "Data Protection Officer DPO",
+      "DPIA Data Protection Impact",
+      "Record of Processing Activities ROPA",
+      "Consent Manager Framework",
+      "Health Data Protection"
+    ],
+    "word_count": 2218,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "12_Cybersecurity_Privacy/GOV-LIA-039.md",
+    "research_sources": [
+      "https://www.meity.gov.in/content/digital-personal-data-protection-act-2023",
+      "https://nha.gov.in/abdm"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  },
+  {
+    "article_id": "GOV-LIA-040",
+    "title": "Cloud Security Architecture & SOC 2 / ISO 27001 Certification Governance for High-Growth Startups & GCCs",
+    "offering": "Cybersecurity & Privacy",
+    "industry": "Startups and SMEs",
+    "primary_icp": "Chief Risk Officer",
+    "secondary_icp": "Chief Information Security Officer",
+    "category": "Cloud Governance & Assurance",
+    "keywords": [
+      "ISO 27001:2022",
+      "SOC 2 Type II",
+      "Shared Responsibility Model",
+      "Data Sovereignty India",
+      "Continuous Compliance Monitoring"
+    ],
+    "word_count": 2231,
+    "reading_time_minutes": 11,
+    "status": "Draft",
+    "file_path": "12_Cybersecurity_Privacy/GOV-LIA-040.md",
+    "research_sources": [
+      "https://www.iso.org/standard/27001",
+      "https://www.meity.gov.in/"
+    ],
+    "poster_status": "Not Started",
+    "poster_file_path": null,
+    "publication_status": "Not Published"
+  }
+]
